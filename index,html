@@ -1,0 +1,14 @@
+<html>
+<body bgcolor="green">
+<table border=5px cellpadding="2px">
+<caption >STUDENTS</caption>
+<tr>
+<th bgcolor="yellow">n</th><th>ROLL NO</TH>
+    <TR>
+        <TD>parvej ansari
+        </TD><td>1</td>
+    </TR>
+</tr>
+</table>
+</body>
+</html>
